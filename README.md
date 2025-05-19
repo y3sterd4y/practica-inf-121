@@ -1,5 +1,5 @@
 
-# Práctica-1-INF-121
+# Práctica-INF-121
 
 ## Información del Estudiante
 
